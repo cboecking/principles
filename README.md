@@ -18,3 +18,5 @@ I publish this publicly so that you my know what to expect from me and the peopl
   - open minded
   - courageous 
 - Generate wealth and opportunity for everyone I engage with
+- Value action and production over management
+- Value heartbeats to create valuable communication
