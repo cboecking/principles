@@ -4,6 +4,8 @@ The purpose of this repository is to describe the principles I wish to pursue no
 
 I publish this publicly so that you my know what to expect from me and the people I engage.
 
+I believe we cannot speak enough about who we are...
+
 # What Matters
 
 - Surround myself with people that are worthy of my love and trust
