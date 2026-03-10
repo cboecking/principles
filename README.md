@@ -6,9 +6,9 @@ I publish this publicly so that you may know what to expect from me and the peop
 
 I believe we cannot speak enough about who we are...
 
-# What Matters
+## What Matters
 
-- Surround myself with people that are worthy of my love and trust
+- Surround myself with people who are worthy of my love and trust
 - Surround myself with people who inspire me
 - Surround myself with people who are:
   - kind
@@ -22,3 +22,17 @@ I believe we cannot speak enough about who we are...
 - Generate wealth and opportunity for everyone I engage with
 - Value action and production over management
 - Value heartbeats to create valuable communication
+
+## Value Action
+
+Guide for what to do when you when you do not know what to do:
+
+> Let us accept what we cannot change (think),
+> change what we can (act),
+> and develop the wisdom to know the difference (feel).
+>
+> — Adapted from the Serenity Prayer
+
+## Value Heartbeats
+
+Once you know what to do... communicate with care. Understand that every heartbeat you consume will never come back. Leave value in its place. You do not need to be perfect. You need to care!
