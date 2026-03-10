@@ -2,7 +2,7 @@
 
 The purpose of this repository is to describe the principles I wish to pursue now and for the rest of my life.
 
-I publish this publicly so that you my know what to expect from me and the people I engage.
+I publish this publicly so that you may know what to expect from me and the people I engage.
 
 I believe we cannot speak enough about who we are...
 
