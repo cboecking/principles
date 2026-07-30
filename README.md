@@ -22,7 +22,7 @@ I believe we cannot speak enough about who we are...
 - Generate wealth and opportunity for everyone I engage with
 - Value action and production over management
 - Value heartbeats to create valuable communication
-- Chose your vocabulary carefully to create succinct and scalable communication
+- Chose vocabulary carefully to create succinct and scalable communication
 
 ## Value Action
 
