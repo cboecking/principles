@@ -24,7 +24,7 @@ I believe we cannot speak enough about who we are...
 - Value heartbeats to create valuable communication
 - Chose vocabulary carefully to create succinct and scalable communication
 - Discuss observable behaviors related to performance and execution
-- Create comfort with dialectical ideas and concepts
+- Build comfort with dialectical concepts
 
 ## Value Action
 
