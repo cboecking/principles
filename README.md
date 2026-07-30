@@ -26,7 +26,7 @@ I believe we cannot speak enough about who we are...
 - Two things can be true at the same time - this concept helps manage productive tension. Here is an example:
   - patience with people
   - impatience with progress
-- Discuss outward and observable behaviors
+- Discuss observable behaviors related to performance and exectuion
 
 ## Value Action
 
