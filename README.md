@@ -42,7 +42,7 @@ Guide for what to do when you when you do not know what to do:
 
 Once you know what to do... communicate with intention. Understand that every heartbeat you consume will never come back. Leave value in its place. You do not need to be perfect. You need to care!
 
-## Manage Tension
+## Value Tension
 
 Managing tension might be the most important thing you do. Productive tension moves most needles.
 - Manage your tension
