@@ -23,7 +23,10 @@ I believe we cannot speak enough about who we are...
 - Value action and production over management
 - Value heartbeats to create valuable communication
 - Chose vocabulary carefully to create succinct and scalable communication
-- Two thinks can be true at the same time (patience with people and impatience with progress is a great example of productive tension)
+- Two thinks can be true at the same time - this concept helps manage productive tension. Here is an example:
+  - patience with people
+  - impatience with progress
+- Discuss outward and observable behaviors
 
 ## Value Action
 
