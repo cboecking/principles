@@ -23,10 +23,8 @@ I believe we cannot speak enough about who we are...
 - Value action and production over management
 - Value heartbeats to create valuable communication
 - Chose vocabulary carefully to create succinct and scalable communication
-- Two things can be true at the same time - this concept helps manage productive tension. Here is an example:
-  - patience with people
-  - impatience with progress
-- Discuss observable behaviors related to performance and exectuion
+- Discuss observable behaviors related to performance and execution
+- Get comfortable with dialectical ideas and concepts
 
 ## Value Action
 
@@ -43,3 +41,12 @@ Guide for what to do when you when you do not know what to do:
 ## Value Heartbeats
 
 Once you know what to do... communicate with intention. Understand that every heartbeat you consume will never come back. Leave value in its place. You do not need to be perfect. You need to care!
+
+## Manage Tension
+
+Managing tension might be the most important thing you do. Productive tension moves most needles.
+- Manage your tension
+- Manage other's tension
+- Two things can be true at the same time - this concept helps manage productive tension. Here is an example:
+  - patience with people
+  - impatience with progress
